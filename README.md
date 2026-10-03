@@ -337,7 +337,7 @@ With the channel slicer set to **Chat**, the KPI cards respond simultaneously: T
 ## 🎥 Video
 
 <p align="center">
-  <a href="https://PASTE-YOUR-VIDEO-LINK-HERE">
+  <a href="https://drive.google.com/file/d/1xVauKxz3QA5AD74njvLWzrnOzI3YDgIB/view?usp=sharing">
     <img src="https://img.shields.io/badge/▶️%20Watch%20the-Project%20Explanation%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
